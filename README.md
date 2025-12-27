@@ -1,1 +1,1 @@
-The completed project can be viewed at - https://833f3n-5173.csb.app/
+The completed project can be viewed at -https://globe-trotter-4n4v.vercel.app/
